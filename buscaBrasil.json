@@ -1,0 +1,2399 @@
+{"tweets" :[
+{
+    "quote_count": 0, 
+    "contributors": null, 
+    "truncated": false, 
+    "text": "e se os chatos usassem drogas... o fim do mundo bugava. bingo! https://t.co/4PKJbc8NoC", 
+    "is_quote_status": true, 
+    "in_reply_to_status_id": null, 
+    "reply_count": 0, 
+    "id": 989724442782674951, 
+    "favorite_count": 0, 
+    "entities": {
+        "user_mentions": [], 
+        "symbols": [], 
+        "hashtags": [], 
+        "urls": [
+            {
+                "url": "https://t.co/4PKJbc8NoC", 
+                "indices": [
+                    63, 
+                    86
+                ], 
+                "expanded_url": "https://twitter.com/marcelomedici/status/989699465870217217", 
+                "display_url": "twitter.com/marcelomedici/\u2026"
+            }
+        ]
+    }, 
+    "quoted_status_id": 989699465870217217, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "timestamp_ms": "1524803670007", 
+    "quoted_status": {
+        "quote_count": 2, 
+        "contributors": null, 
+        "truncated": false, 
+        "text": "duas coisas v\u00e3o acabar com o mundo: as drogas e os chatos. (o aquecimento global n\u00e3o vai ter nem tempo...)", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "reply_count": 2, 
+        "id": 989699465870217217, 
+        "favorite_count": 58, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "user_mentions": [], 
+            "symbols": [], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "989699465870217217", 
+        "retweet_count": 13, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 24269775, 
+            "default_profile": false, 
+            "verified": true, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/946101454472990722/M1Sh1KJm_normal.jpg", 
+            "profile_sidebar_fill_color": "000000", 
+            "profile_text_color": "000000", 
+            "followers_count": 566981, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "24269775", 
+            "profile_background_color": "000000", 
+            "listed_count": 1905, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "utc_offset": -10800, 
+            "statuses_count": 25225, 
+            "description": "Twitter PESSOAL. N\u00e3o sou pessoa p\u00fablica... p\u00fablico \u00e9 rua, pra\u00e7a, transporte. (contato profissional Tata Pessoa tata@tpagenciamento.com.br)", 
+            "friends_count": 627, 
+            "location": "Brasil", 
+            "profile_link_color": "FAB81E", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/946101454472990722/M1Sh1KJm_normal.jpg", 
+            "following": null, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24269775/1520928422", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "name": "Marcelo Medici", 
+            "lang": "pt", 
+            "profile_background_tile": false, 
+            "favourites_count": 14390, 
+            "screen_name": "marcelomedici", 
+            "notifications": null, 
+            "url": "http://youtube.com/micoleaodourado", 
+            "created_at": "Fri Mar 13 22:28:25 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Brasilia", 
+            "protected": false, 
+            "translator_type": "regular", 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "pt", 
+        "created_at": "Fri Apr 27 02:55:15 +0000 2018", 
+        "filter_level": "low", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "in_reply_to_screen_name": null, 
+    "id_str": "989724442782674951", 
+    "display_text_range": [
+        0, 
+        62
+    ], 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+        "follow_request_sent": null, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 44633150, 
+        "default_profile": false, 
+        "verified": false, 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/945698339135385600/BMW3xARX_normal.jpg", 
+        "profile_sidebar_fill_color": "F6F6F6", 
+        "profile_text_color": "333333", 
+        "followers_count": 661, 
+        "profile_sidebar_border_color": "EEEEEE", 
+        "id_str": "44633150", 
+        "profile_background_color": "ACDED6", 
+        "listed_count": 23, 
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/557305126994444289/_tj4HD06.jpeg", 
+        "utc_offset": -10800, 
+        "statuses_count": 23930, 
+        "description": "Jornalista. Aprendiz de escritor. Amazonense da goma do tacac\u00e1. Giornalista// periodista// journalist.", 
+        "friends_count": 487, 
+        "location": "Manaus - AM", 
+        "profile_link_color": "3B94D9", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/945698339135385600/BMW3xARX_normal.jpg", 
+        "following": null, 
+        "geo_enabled": true, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44633150/1421707823", 
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/557305126994444289/_tj4HD06.jpeg", 
+        "name": "Luiz G.", 
+        "lang": "pt", 
+        "profile_background_tile": true, 
+        "favourites_count": 432, 
+        "screen_name": "luiz_g_", 
+        "notifications": null, 
+        "url": "http://blocodoluiz.wordpress.com", 
+        "created_at": "Thu Jun 04 14:56:07 +0000 2009", 
+        "contributors_enabled": false, 
+        "time_zone": "Brasilia", 
+        "protected": false, 
+        "translator_type": "none", 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "possibly_sensitive": false, 
+    "lang": "pt", 
+    "created_at": "Fri Apr 27 04:34:30 +0000 2018", 
+    "quoted_status_id_str": "989699465870217217", 
+    "filter_level": "low", 
+    "in_reply_to_status_id_str": null, 
+    "place": {
+        "full_name": "Manaus, Brasil", 
+        "url": "https://api.twitter.com/1.1/geo/id/45e3bce63f2beeee.json", 
+        "country": "Brasil", 
+        "place_type": "city", 
+        "bounding_box": {
+            "type": "Polygon", 
+            "coordinates": [
+                [
+                    [
+                        -60.802071, 
+                        -3.221228
+                    ], 
+                    [
+                        -60.802071, 
+                        -1.923622
+                    ], 
+                    [
+                        -59.15858, 
+                        -1.923622
+                    ], 
+                    [
+                        -59.15858, 
+                        -3.221228
+                    ]
+                ]
+            ]
+        }, 
+        "country_code": "BR", 
+        "attributes": {}, 
+        "id": "45e3bce63f2beeee", 
+        "name": "Manaus"
+    }
+},
+{
+    "quote_count": 0, 
+    "contributors": null, 
+    "truncated": false, 
+    "text": "RT @UaiGoiano: Eu t\u00f4 muito preocupado com o \u201cAquecimento Global\u201d. https://t.co/ZpdDOJmZRN", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "reply_count": 0, 
+    "id": 989745406895534080, 
+    "favorite_count": 0, 
+    "entities": {
+        "user_mentions": [
+            {
+                "id": 1725980280, 
+                "indices": [
+                    3, 
+                    13
+                ], 
+                "id_str": "1725980280", 
+                "screen_name": "UaiGoiano", 
+                "name": "instagram: @uaigoiano"
+            }
+        ], 
+        "symbols": [], 
+        "hashtags": [], 
+        "urls": [], 
+        "media": [
+            {
+                "source_user_id": 1725980280, 
+                "source_status_id_str": "890032349584347136", 
+                "expanded_url": "https://twitter.com/UaiGoiano/status/890032349584347136/photo/1", 
+                "display_url": "pic.twitter.com/ZpdDOJmZRN", 
+                "url": "https://t.co/ZpdDOJmZRN", 
+                "media_url_https": "https://pbs.twimg.com/media/DFoHsysXoAMV_oE.jpg", 
+                "source_user_id_str": "1725980280", 
+                "source_status_id": 890032349584347136, 
+                "id_str": "890032342462603267", 
+                "sizes": {
+                    "small": {
+                        "h": 583, 
+                        "resize": "fit", 
+                        "w": 529
+                    }, 
+                    "large": {
+                        "h": 583, 
+                        "resize": "fit", 
+                        "w": 529
+                    }, 
+                    "medium": {
+                        "h": 583, 
+                        "resize": "fit", 
+                        "w": 529
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "indices": [
+                    66, 
+                    89
+                ], 
+                "type": "photo", 
+                "id": 890032342462603267, 
+                "media_url": "http://pbs.twimg.com/media/DFoHsysXoAMV_oE.jpg"
+            }
+        ]
+    }, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "timestamp_ms": "1524808668241", 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "in_reply_to_screen_name": null, 
+    "id_str": "989745406895534080", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "retweeted_status": {
+        "quote_count": 20, 
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Eu t\u00f4 muito preocupado com o \u201cAquecimento Global\u201d. https://t.co/ZpdDOJmZRN", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "reply_count": 8, 
+        "id": 890032349584347136, 
+        "favorite_count": 103, 
+        "entities": {
+            "user_mentions": [], 
+            "symbols": [], 
+            "hashtags": [], 
+            "urls": [], 
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/UaiGoiano/status/890032349584347136/photo/1", 
+                    "display_url": "pic.twitter.com/ZpdDOJmZRN", 
+                    "url": "https://t.co/ZpdDOJmZRN", 
+                    "media_url_https": "https://pbs.twimg.com/media/DFoHsysXoAMV_oE.jpg", 
+                    "id_str": "890032342462603267", 
+                    "sizes": {
+                        "small": {
+                            "h": 583, 
+                            "resize": "fit", 
+                            "w": 529
+                        }, 
+                        "large": {
+                            "h": 583, 
+                            "resize": "fit", 
+                            "w": 529
+                        }, 
+                        "medium": {
+                            "h": 583, 
+                            "resize": "fit", 
+                            "w": 529
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        51, 
+                        74
+                    ], 
+                    "type": "photo", 
+                    "id": 890032342462603267, 
+                    "media_url": "http://pbs.twimg.com/media/DFoHsysXoAMV_oE.jpg"
+                }
+            ]
+        }, 
+        "retweeted": false, 
+        "coordinates": null, 
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>", 
+        "in_reply_to_screen_name": null, 
+        "id_str": "890032349584347136", 
+        "display_text_range": [
+            0, 
+            50
+        ], 
+        "retweet_count": 60, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 1725980280, 
+            "default_profile": false, 
+            "verified": false, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/989390899212967936/NjvJqBnv_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "followers_count": 19696, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "1725980280", 
+            "profile_background_color": "F7F7F7", 
+            "listed_count": 350, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/444479945226457088/ZFncWsjt.jpeg", 
+            "utc_offset": -10800, 
+            "statuses_count": 80135, 
+            "description": "Me chamo Thiago, tenho uma vida baseada em perder followers e fracassando na vida desde 1991. Minha vida se resume em ter cora\u00e7\u00e3o partido por mulheres bonitas!", 
+            "friends_count": 879, 
+            "location": "Goi\u00e2nia, Brasil", 
+            "profile_link_color": "ABB8C2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/989390899212967936/NjvJqBnv_normal.jpg", 
+            "following": null, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1725980280/1521774455", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/444479945226457088/ZFncWsjt.jpeg", 
+            "name": "instagram: @uaigoiano", 
+            "lang": "pt", 
+            "profile_background_tile": true, 
+            "favourites_count": 65916, 
+            "screen_name": "UaiGoiano", 
+            "notifications": null, 
+            "url": null, 
+            "created_at": "Tue Sep 03 16:32:43 +0000 2013", 
+            "contributors_enabled": false, 
+            "time_zone": "Brasilia", 
+            "protected": false, 
+            "translator_type": "regular", 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "pt", 
+        "created_at": "Wed Jul 26 02:13:42 +0000 2017", 
+        "filter_level": "low", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/UaiGoiano/status/890032349584347136/photo/1", 
+                    "display_url": "pic.twitter.com/ZpdDOJmZRN", 
+                    "url": "https://t.co/ZpdDOJmZRN", 
+                    "media_url_https": "https://pbs.twimg.com/media/DFoHsysXoAMV_oE.jpg", 
+                    "id_str": "890032342462603267", 
+                    "sizes": {
+                        "small": {
+                            "h": 583, 
+                            "resize": "fit", 
+                            "w": 529
+                        }, 
+                        "large": {
+                            "h": 583, 
+                            "resize": "fit", 
+                            "w": 529
+                        }, 
+                        "medium": {
+                            "h": 583, 
+                            "resize": "fit", 
+                            "w": 529
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        51, 
+                        74
+                    ], 
+                    "type": "photo", 
+                    "id": 890032342462603267, 
+                    "media_url": "http://pbs.twimg.com/media/DFoHsysXoAMV_oE.jpg"
+                }
+            ]
+        }
+    }, 
+    "user": {
+        "follow_request_sent": null, 
+        "profile_use_background_image": false, 
+        "default_profile_image": false, 
+        "id": 1725980280, 
+        "default_profile": false, 
+        "verified": false, 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/989390899212967936/NjvJqBnv_normal.jpg", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "followers_count": 19696, 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "id_str": "1725980280", 
+        "profile_background_color": "F7F7F7", 
+        "listed_count": 350, 
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/444479945226457088/ZFncWsjt.jpeg", 
+        "utc_offset": -10800, 
+        "statuses_count": 80136, 
+        "description": "Me chamo Thiago, tenho uma vida baseada em perder followers e fracassando na vida desde 1991. Minha vida se resume em ter cora\u00e7\u00e3o partido por mulheres bonitas!", 
+        "friends_count": 879, 
+        "location": "Goi\u00e2nia, Brasil", 
+        "profile_link_color": "ABB8C2", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/989390899212967936/NjvJqBnv_normal.jpg", 
+        "following": null, 
+        "geo_enabled": true, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1725980280/1521774455", 
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/444479945226457088/ZFncWsjt.jpeg", 
+        "name": "instagram: @uaigoiano", 
+        "lang": "pt", 
+        "profile_background_tile": true, 
+        "favourites_count": 65916, 
+        "screen_name": "UaiGoiano", 
+        "notifications": null, 
+        "url": null, 
+        "created_at": "Tue Sep 03 16:32:43 +0000 2013", 
+        "contributors_enabled": false, 
+        "time_zone": "Brasilia", 
+        "protected": false, 
+        "translator_type": "regular", 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "possibly_sensitive": false, 
+    "lang": "pt", 
+    "created_at": "Fri Apr 27 05:57:48 +0000 2018", 
+    "filter_level": "low", 
+    "in_reply_to_status_id_str": null, 
+    "place": null, 
+    "extended_entities": {
+        "media": [
+            {
+                "source_user_id": 1725980280, 
+                "source_status_id_str": "890032349584347136", 
+                "expanded_url": "https://twitter.com/UaiGoiano/status/890032349584347136/photo/1", 
+                "display_url": "pic.twitter.com/ZpdDOJmZRN", 
+                "url": "https://t.co/ZpdDOJmZRN", 
+                "media_url_https": "https://pbs.twimg.com/media/DFoHsysXoAMV_oE.jpg", 
+                "source_user_id_str": "1725980280", 
+                "source_status_id": 890032349584347136, 
+                "id_str": "890032342462603267", 
+                "sizes": {
+                    "small": {
+                        "h": 583, 
+                        "resize": "fit", 
+                        "w": 529
+                    }, 
+                    "large": {
+                        "h": 583, 
+                        "resize": "fit", 
+                        "w": 529
+                    }, 
+                    "medium": {
+                        "h": 583, 
+                        "resize": "fit", 
+                        "w": 529
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "indices": [
+                    66, 
+                    89
+                ], 
+                "type": "photo", 
+                "id": 890032342462603267, 
+                "media_url": "http://pbs.twimg.com/media/DFoHsysXoAMV_oE.jpg"
+            }
+        ]
+    }
+},
+{
+    "quote_count": 0, 
+    "contributors": null, 
+    "truncated": false, 
+    "text": "Estudo indica que o aquecimento global intensificar\u00e1 as secas na Europa\nhttps://t.co/rsqX3y49e1", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "reply_count": 0, 
+    "id": 989776164599164930, 
+    "favorite_count": 0, 
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "timestamp_ms": "1524816001449", 
+    "entities": {
+        "user_mentions": [], 
+        "symbols": [], 
+        "hashtags": [], 
+        "urls": [
+            {
+                "url": "https://t.co/rsqX3y49e1", 
+                "indices": [
+                    72, 
+                    95
+                ], 
+                "expanded_url": "http://bit.ly/2I1knIQ", 
+                "display_url": "bit.ly/2I1knIQ"
+            }
+        ]
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "989776164599164930", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+        "follow_request_sent": null, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 41123392, 
+        "default_profile": false, 
+        "verified": false, 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/576473698099601408/-MT0jgfr_normal.png", 
+        "profile_sidebar_fill_color": "FFFFFF", 
+        "profile_text_color": "333333", 
+        "followers_count": 15089, 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "id_str": "41123392", 
+        "profile_background_color": "F0AD4F", 
+        "listed_count": 369, 
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/13571797/imagem.JPG", 
+        "utc_offset": -10800, 
+        "statuses_count": 115985, 
+        "description": "O IHU busca apontar novas quest\u00f5es e respostas para os grandes desafios de nossa \u00e9poca...", 
+        "friends_count": 3477, 
+        "location": "S\u00e3o Leopoldo", 
+        "profile_link_color": "F0AD4F", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/576473698099601408/-MT0jgfr_normal.png", 
+        "following": null, 
+        "geo_enabled": true, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41123392/1444335488", 
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/13571797/imagem.JPG", 
+        "name": "IHU", 
+        "lang": "pt", 
+        "profile_background_tile": false, 
+        "favourites_count": 155, 
+        "screen_name": "_ihu", 
+        "notifications": null, 
+        "url": "http://www.ihu.unisinos.br", 
+        "created_at": "Tue May 19 14:16:13 +0000 2009", 
+        "contributors_enabled": false, 
+        "time_zone": "Brasilia", 
+        "protected": false, 
+        "translator_type": "none", 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "possibly_sensitive": false, 
+    "lang": "pt", 
+    "created_at": "Fri Apr 27 08:00:01 +0000 2018", 
+    "filter_level": "low", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+},
+{
+    "quote_count": 0, 
+    "contributors": null, 
+    "truncated": false, 
+    "text": "RT @marcelomedici: duas coisas v\u00e3o acabar com o mundo: as drogas e os chatos. (o aquecimento global n\u00e3o vai ter nem tempo...)", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "reply_count": 0, 
+    "id": 989806034742018048, 
+    "favorite_count": 0, 
+    "entities": {
+        "user_mentions": [
+            {
+                "id": 24269775, 
+                "indices": [
+                    3, 
+                    17
+                ], 
+                "id_str": "24269775", 
+                "screen_name": "marcelomedici", 
+                "name": "Marcelo Medici"
+            }
+        ], 
+        "symbols": [], 
+        "hashtags": [], 
+        "urls": []
+    }, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "timestamp_ms": "1524823123046", 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "in_reply_to_screen_name": null, 
+    "id_str": "989806034742018048", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "retweeted_status": {
+        "quote_count": 3, 
+        "contributors": null, 
+        "truncated": false, 
+        "text": "duas coisas v\u00e3o acabar com o mundo: as drogas e os chatos. (o aquecimento global n\u00e3o vai ter nem tempo...)", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "reply_count": 3, 
+        "id": 989699465870217217, 
+        "favorite_count": 77, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "user_mentions": [], 
+            "symbols": [], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "989699465870217217", 
+        "retweet_count": 18, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 24269775, 
+            "default_profile": false, 
+            "verified": true, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/946101454472990722/M1Sh1KJm_normal.jpg", 
+            "profile_sidebar_fill_color": "000000", 
+            "profile_text_color": "000000", 
+            "followers_count": 566981, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "24269775", 
+            "profile_background_color": "000000", 
+            "listed_count": 1905, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "utc_offset": -10800, 
+            "statuses_count": 25225, 
+            "description": "Twitter PESSOAL. N\u00e3o sou pessoa p\u00fablica... p\u00fablico \u00e9 rua, pra\u00e7a, transporte. (contato profissional Tata Pessoa tata@tpagenciamento.com.br)", 
+            "friends_count": 627, 
+            "location": "Brasil", 
+            "profile_link_color": "FAB81E", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/946101454472990722/M1Sh1KJm_normal.jpg", 
+            "following": null, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24269775/1520928422", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "name": "Marcelo Medici", 
+            "lang": "pt", 
+            "profile_background_tile": false, 
+            "favourites_count": 14390, 
+            "screen_name": "marcelomedici", 
+            "notifications": null, 
+            "url": "http://youtube.com/micoleaodourado", 
+            "created_at": "Fri Mar 13 22:28:25 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Brasilia", 
+            "protected": false, 
+            "translator_type": "regular", 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "pt", 
+        "created_at": "Fri Apr 27 02:55:15 +0000 2018", 
+        "filter_level": "low", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    "user": {
+        "follow_request_sent": null, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 57102037, 
+        "default_profile": false, 
+        "verified": false, 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/922055625995153408/R6vZfuZ6_normal.jpg", 
+        "profile_sidebar_fill_color": "FFFFFF", 
+        "profile_text_color": "333333", 
+        "followers_count": 605, 
+        "profile_sidebar_border_color": "EEEEEE", 
+        "id_str": "57102037", 
+        "profile_background_color": "B2DFDA", 
+        "listed_count": 9, 
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494566692534501377/pk7ghmZL.jpeg", 
+        "utc_offset": -10800, 
+        "statuses_count": 23858, 
+        "description": "Nem SEJE nem MENAS,PFVR!", 
+        "friends_count": 988, 
+        "location": "Holambra,SP", 
+        "profile_link_color": "93A644", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/922055625995153408/R6vZfuZ6_normal.jpg", 
+        "following": null, 
+        "geo_enabled": true, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/57102037/1421522922", 
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494566692534501377/pk7ghmZL.jpeg", 
+        "name": "A\u00e7a\u00ed s\u00f3 com banana por favor!", 
+        "lang": "en", 
+        "profile_background_tile": true, 
+        "favourites_count": 9374, 
+        "screen_name": "krolquintana", 
+        "notifications": null, 
+        "url": null, 
+        "created_at": "Wed Jul 15 18:55:19 +0000 2009", 
+        "contributors_enabled": false, 
+        "time_zone": "Brasilia", 
+        "protected": false, 
+        "translator_type": "none", 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "pt", 
+    "created_at": "Fri Apr 27 09:58:43 +0000 2018", 
+    "filter_level": "low", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+},
+{
+    "quote_count": 0, 
+    "contributors": null, 
+    "truncated": false, 
+    "text": "Mudan\u00e7a clim\u00e1tica gera aumento no atendimento a crian\u00e7as com doen\u00e7as\u00a0respirat\u00f3rias https://t.co/Y7hegVDrF5 https://t.co/q0NRK5S99J", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "reply_count": 0, 
+    "id": 989812627336499200, 
+    "favorite_count": 0, 
+    "entities": {
+        "user_mentions": [], 
+        "symbols": [], 
+        "hashtags": [], 
+        "urls": [
+            {
+                "url": "https://t.co/Y7hegVDrF5", 
+                "indices": [
+                    83, 
+                    106
+                ], 
+                "expanded_url": "http://ambientedomeio.com/2018/04/27/mudanca-climatica-gera-aumento-no-atendimento-a-criancas-com-doencas-respiratorias/", 
+                "display_url": "ambientedomeio.com/2018/04/27/mud\u2026"
+            }
+        ], 
+        "media": [
+            {
+                "expanded_url": "https://twitter.com/ambientedomeio/status/989812627336499200/photo/1", 
+                "display_url": "pic.twitter.com/q0NRK5S99J", 
+                "url": "https://t.co/q0NRK5S99J", 
+                "media_url_https": "https://pbs.twimg.com/media/DbyFVrNUwAAaK_y.jpg", 
+                "id_str": "989812625537024000", 
+                "sizes": {
+                    "large": {
+                        "h": 600, 
+                        "resize": "fit", 
+                        "w": 800
+                    }, 
+                    "small": {
+                        "h": 510, 
+                        "resize": "fit", 
+                        "w": 680
+                    }, 
+                    "medium": {
+                        "h": 600, 
+                        "resize": "fit", 
+                        "w": 800
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "indices": [
+                    107, 
+                    130
+                ], 
+                "type": "photo", 
+                "id": 989812625537024000, 
+                "media_url": "http://pbs.twimg.com/media/DbyFVrNUwAAaK_y.jpg"
+            }
+        ]
+    }, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "timestamp_ms": "1524824694843", 
+    "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+    "in_reply_to_screen_name": null, 
+    "id_str": "989812627336499200", 
+    "display_text_range": [
+        0, 
+        106
+    ], 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+        "follow_request_sent": null, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 111323836, 
+        "default_profile": false, 
+        "verified": false, 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/682656109140774913/-Mwg-tkm_normal.jpg", 
+        "profile_sidebar_fill_color": "5E94D4", 
+        "profile_text_color": "9427B2", 
+        "followers_count": 116, 
+        "profile_sidebar_border_color": "000000", 
+        "id_str": "111323836", 
+        "profile_background_color": "4A913C", 
+        "listed_count": 16, 
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/541264021807058945/uEsbPTja.jpeg", 
+        "utc_offset": -10800, 
+        "statuses_count": 7502, 
+        "description": "Informa\u00e7\u00e3o de qualidade sobre o meio", 
+        "friends_count": 75, 
+        "location": "Brasil", 
+        "profile_link_color": "4A913C", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/682656109140774913/-Mwg-tkm_normal.jpg", 
+        "following": null, 
+        "geo_enabled": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/111323836/1522033219", 
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/541264021807058945/uEsbPTja.jpeg", 
+        "name": "Ambiente do meio", 
+        "lang": "pt", 
+        "profile_background_tile": true, 
+        "favourites_count": 141, 
+        "screen_name": "ambientedomeio", 
+        "notifications": null, 
+        "url": "https://ambientedomeio.com/", 
+        "created_at": "Thu Feb 04 14:41:01 +0000 2010", 
+        "contributors_enabled": false, 
+        "time_zone": "Brasilia", 
+        "protected": false, 
+        "translator_type": "none", 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "possibly_sensitive": false, 
+    "lang": "pt", 
+    "created_at": "Fri Apr 27 10:24:54 +0000 2018", 
+    "filter_level": "low", 
+    "in_reply_to_status_id_str": null, 
+    "place": null, 
+    "extended_entities": {
+        "media": [
+            {
+                "expanded_url": "https://twitter.com/ambientedomeio/status/989812627336499200/photo/1", 
+                "display_url": "pic.twitter.com/q0NRK5S99J", 
+                "url": "https://t.co/q0NRK5S99J", 
+                "media_url_https": "https://pbs.twimg.com/media/DbyFVrNUwAAaK_y.jpg", 
+                "id_str": "989812625537024000", 
+                "sizes": {
+                    "large": {
+                        "h": 600, 
+                        "resize": "fit", 
+                        "w": 800
+                    }, 
+                    "small": {
+                        "h": 510, 
+                        "resize": "fit", 
+                        "w": 680
+                    }, 
+                    "medium": {
+                        "h": 600, 
+                        "resize": "fit", 
+                        "w": 800
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "indices": [
+                    107, 
+                    130
+                ], 
+                "type": "photo", 
+                "id": 989812625537024000, 
+                "media_url": "http://pbs.twimg.com/media/DbyFVrNUwAAaK_y.jpg"
+            }
+        ]
+    }
+},
+{
+    "quote_count": 0, 
+    "contributors": null, 
+    "truncated": false, 
+    "text": "RT @marcelomedici: duas coisas v\u00e3o acabar com o mundo: as drogas e os chatos. (o aquecimento global n\u00e3o vai ter nem tempo...)", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "reply_count": 0, 
+    "id": 989815577157005312, 
+    "favorite_count": 0, 
+    "entities": {
+        "user_mentions": [
+            {
+                "id": 24269775, 
+                "indices": [
+                    3, 
+                    17
+                ], 
+                "id_str": "24269775", 
+                "screen_name": "marcelomedici", 
+                "name": "Marcelo Medici"
+            }
+        ], 
+        "symbols": [], 
+        "hashtags": [], 
+        "urls": []
+    }, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "timestamp_ms": "1524825398135", 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "in_reply_to_screen_name": null, 
+    "id_str": "989815577157005312", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "retweeted_status": {
+        "quote_count": 3, 
+        "contributors": null, 
+        "truncated": false, 
+        "text": "duas coisas v\u00e3o acabar com o mundo: as drogas e os chatos. (o aquecimento global n\u00e3o vai ter nem tempo...)", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "reply_count": 3, 
+        "id": 989699465870217217, 
+        "favorite_count": 86, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "user_mentions": [], 
+            "symbols": [], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "989699465870217217", 
+        "retweet_count": 19, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 24269775, 
+            "default_profile": false, 
+            "verified": true, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/946101454472990722/M1Sh1KJm_normal.jpg", 
+            "profile_sidebar_fill_color": "000000", 
+            "profile_text_color": "000000", 
+            "followers_count": 566981, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "24269775", 
+            "profile_background_color": "000000", 
+            "listed_count": 1905, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "utc_offset": -10800, 
+            "statuses_count": 25225, 
+            "description": "Twitter PESSOAL. N\u00e3o sou pessoa p\u00fablica... p\u00fablico \u00e9 rua, pra\u00e7a, transporte. (contato profissional Tata Pessoa tata@tpagenciamento.com.br)", 
+            "friends_count": 627, 
+            "location": "Brasil", 
+            "profile_link_color": "FAB81E", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/946101454472990722/M1Sh1KJm_normal.jpg", 
+            "following": null, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24269775/1520928422", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "name": "Marcelo Medici", 
+            "lang": "pt", 
+            "profile_background_tile": false, 
+            "favourites_count": 14390, 
+            "screen_name": "marcelomedici", 
+            "notifications": null, 
+            "url": "http://youtube.com/micoleaodourado", 
+            "created_at": "Fri Mar 13 22:28:25 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Brasilia", 
+            "protected": false, 
+            "translator_type": "regular", 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "pt", 
+        "created_at": "Fri Apr 27 02:55:15 +0000 2018", 
+        "filter_level": "low", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    "user": {
+        "follow_request_sent": null, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 24749203, 
+        "default_profile": true, 
+        "verified": false, 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/568933794141724672/TXKPbbG__normal.jpeg", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "followers_count": 23, 
+        "profile_sidebar_border_color": "C0DEED", 
+        "id_str": "24749203", 
+        "profile_background_color": "C0DEED", 
+        "listed_count": 0, 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "utc_offset": -10800, 
+        "statuses_count": 522, 
+        "description": null, 
+        "friends_count": 86, 
+        "location": null, 
+        "profile_link_color": "1DA1F2", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/568933794141724672/TXKPbbG__normal.jpeg", 
+        "following": null, 
+        "geo_enabled": false, 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "name": "Carol Lima", 
+        "lang": "pt", 
+        "profile_background_tile": false, 
+        "favourites_count": 3501, 
+        "screen_name": "CarolissimaBhz", 
+        "notifications": null, 
+        "url": null, 
+        "created_at": "Mon Mar 16 19:18:41 +0000 2009", 
+        "contributors_enabled": false, 
+        "time_zone": "Brasilia", 
+        "protected": false, 
+        "translator_type": "none", 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "pt", 
+    "created_at": "Fri Apr 27 10:36:38 +0000 2018", 
+    "filter_level": "low", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+},
+{
+    "quote_count": 0, 
+    "contributors": null, 
+    "truncated": false, 
+    "text": "RT @marcelomedici: duas coisas v\u00e3o acabar com o mundo: as drogas e os chatos. (o aquecimento global n\u00e3o vai ter nem tempo...)", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "reply_count": 0, 
+    "id": 989820567225290752, 
+    "favorite_count": 0, 
+    "entities": {
+        "user_mentions": [
+            {
+                "id": 24269775, 
+                "indices": [
+                    3, 
+                    17
+                ], 
+                "id_str": "24269775", 
+                "screen_name": "marcelomedici", 
+                "name": "Marcelo Medici"
+            }
+        ], 
+        "symbols": [], 
+        "hashtags": [], 
+        "urls": []
+    }, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "timestamp_ms": "1524826587860", 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "in_reply_to_screen_name": null, 
+    "id_str": "989820567225290752", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "retweeted_status": {
+        "quote_count": 3, 
+        "contributors": null, 
+        "truncated": false, 
+        "text": "duas coisas v\u00e3o acabar com o mundo: as drogas e os chatos. (o aquecimento global n\u00e3o vai ter nem tempo...)", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "reply_count": 3, 
+        "id": 989699465870217217, 
+        "favorite_count": 89, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "user_mentions": [], 
+            "symbols": [], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "989699465870217217", 
+        "retweet_count": 20, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 24269775, 
+            "default_profile": false, 
+            "verified": true, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/946101454472990722/M1Sh1KJm_normal.jpg", 
+            "profile_sidebar_fill_color": "000000", 
+            "profile_text_color": "000000", 
+            "followers_count": 566981, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "24269775", 
+            "profile_background_color": "000000", 
+            "listed_count": 1905, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "utc_offset": -10800, 
+            "statuses_count": 25225, 
+            "description": "Twitter PESSOAL. N\u00e3o sou pessoa p\u00fablica... p\u00fablico \u00e9 rua, pra\u00e7a, transporte. (contato profissional Tata Pessoa tata@tpagenciamento.com.br)", 
+            "friends_count": 627, 
+            "location": "Brasil", 
+            "profile_link_color": "FAB81E", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/946101454472990722/M1Sh1KJm_normal.jpg", 
+            "following": null, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24269775/1520928422", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "name": "Marcelo Medici", 
+            "lang": "pt", 
+            "profile_background_tile": false, 
+            "favourites_count": 14390, 
+            "screen_name": "marcelomedici", 
+            "notifications": null, 
+            "url": "http://youtube.com/micoleaodourado", 
+            "created_at": "Fri Mar 13 22:28:25 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Brasilia", 
+            "protected": false, 
+            "translator_type": "regular", 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "pt", 
+        "created_at": "Fri Apr 27 02:55:15 +0000 2018", 
+        "filter_level": "low", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    "user": {
+        "follow_request_sent": null, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 348200051, 
+        "default_profile": false, 
+        "verified": false, 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/956833832317214720/cBmVPnu1_normal.jpg", 
+        "profile_sidebar_fill_color": "E6D8D8", 
+        "profile_text_color": "420F52", 
+        "followers_count": 138, 
+        "profile_sidebar_border_color": "000000", 
+        "id_str": "348200051", 
+        "profile_background_color": "ABB8C2", 
+        "listed_count": 1, 
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/527217568222687232/V_biuLPh.jpeg", 
+        "utc_offset": -10800, 
+        "statuses_count": 8364, 
+        "description": "Geminiano,trint\u00e3o,Marajoara,PROTETOR DOS ANIMAIS e f\u00e3 de Jared Leto! !", 
+        "friends_count": 479, 
+        "location": "RAIN CITY BEL\u00c9M", 
+        "profile_link_color": "DD2E44", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/956833832317214720/cBmVPnu1_normal.jpg", 
+        "following": null, 
+        "geo_enabled": true, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/348200051/1496577019", 
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/527217568222687232/V_biuLPh.jpeg", 
+        "name": "Sam Balieiroh", 
+        "lang": "pt", 
+        "profile_background_tile": true, 
+        "favourites_count": 8570, 
+        "screen_name": "SAM_BALIEIROH", 
+        "notifications": null, 
+        "url": null, 
+        "created_at": "Thu Aug 04 01:31:31 +0000 2011", 
+        "contributors_enabled": false, 
+        "time_zone": "Brasilia", 
+        "protected": false, 
+        "translator_type": "none", 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "pt", 
+    "created_at": "Fri Apr 27 10:56:27 +0000 2018", 
+    "filter_level": "low", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+},
+{
+    "quote_count": 0, 
+    "contributors": null, 
+    "truncated": false, 
+    "text": "RT @yooh_hana: 132 - \"Porque todo mundo \u00e9 quente?\"\n\n\"Aquecimento global\"\n\nJCKSNCKSJZKAIXSK BERRO https://t.co/dqNAAS40cY", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "reply_count": 0, 
+    "id": 989830843030999043, 
+    "favorite_count": 0, 
+    "entities": {
+        "user_mentions": [
+            {
+                "id": 3921791187, 
+                "indices": [
+                    3, 
+                    13
+                ], 
+                "id_str": "3921791187", 
+                "screen_name": "yooh_hana", 
+                "name": "yuyu ama tanto o bts q quer chorar de amor; b-aRMy"
+            }
+        ], 
+        "symbols": [], 
+        "hashtags": [], 
+        "urls": [], 
+        "media": [
+            {
+                "source_user_id": 3921791187, 
+                "source_status_id_str": "863753124003164160", 
+                "expanded_url": "https://twitter.com/Yooh_Hana/status/863753124003164160/photo/1", 
+                "display_url": "pic.twitter.com/dqNAAS40cY", 
+                "url": "https://t.co/dqNAAS40cY", 
+                "media_url_https": "https://pbs.twimg.com/media/C_yq38FUMAIQ3Mj.jpg", 
+                "source_user_id_str": "3921791187", 
+                "source_status_id": 863753124003164160, 
+                "id_str": "863753106546241538", 
+                "sizes": {
+                    "large": {
+                        "h": 1086, 
+                        "resize": "fit", 
+                        "w": 481
+                    }, 
+                    "small": {
+                        "h": 680, 
+                        "resize": "fit", 
+                        "w": 301
+                    }, 
+                    "medium": {
+                        "h": 1086, 
+                        "resize": "fit", 
+                        "w": 481
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "indices": [
+                    97, 
+                    120
+                ], 
+                "type": "photo", 
+                "id": 863753106546241538, 
+                "media_url": "http://pbs.twimg.com/media/C_yq38FUMAIQ3Mj.jpg"
+            }
+        ]
+    }, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "timestamp_ms": "1524829037803", 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "in_reply_to_screen_name": null, 
+    "id_str": "989830843030999043", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "retweeted_status": {
+        "quote_count": 21, 
+        "contributors": null, 
+        "truncated": false, 
+        "text": "132 - \"Porque todo mundo \u00e9 quente?\"\n\n\"Aquecimento global\"\n\nJCKSNCKSJZKAIXSK BERRO https://t.co/dqNAAS40cY", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": 858359234374795271, 
+        "reply_count": 3, 
+        "id": 863753124003164160, 
+        "favorite_count": 774, 
+        "entities": {
+            "user_mentions": [], 
+            "symbols": [], 
+            "hashtags": [], 
+            "urls": [], 
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/Yooh_Hana/status/863753124003164160/photo/1", 
+                    "display_url": "pic.twitter.com/dqNAAS40cY", 
+                    "url": "https://t.co/dqNAAS40cY", 
+                    "media_url_https": "https://pbs.twimg.com/media/C_yq38FUMAIQ3Mj.jpg", 
+                    "id_str": "863753106546241538", 
+                    "sizes": {
+                        "large": {
+                            "h": 1086, 
+                            "resize": "fit", 
+                            "w": 481
+                        }, 
+                        "small": {
+                            "h": 680, 
+                            "resize": "fit", 
+                            "w": 301
+                        }, 
+                        "medium": {
+                            "h": 1086, 
+                            "resize": "fit", 
+                            "w": 481
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        82, 
+                        105
+                    ], 
+                    "type": "photo", 
+                    "id": 863753106546241538, 
+                    "media_url": "http://pbs.twimg.com/media/C_yq38FUMAIQ3Mj.jpg"
+                }
+            ]
+        }, 
+        "retweeted": false, 
+        "coordinates": null, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "in_reply_to_screen_name": "yooh_hana", 
+        "id_str": "863753124003164160", 
+        "display_text_range": [
+            0, 
+            81
+        ], 
+        "retweet_count": 493, 
+        "in_reply_to_user_id": 3921791187, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 3921791187, 
+            "default_profile": false, 
+            "verified": false, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/983515384937664512/-uxdGw7r_normal.jpg", 
+            "profile_sidebar_fill_color": "000000", 
+            "profile_text_color": "000000", 
+            "followers_count": 12472, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "3921791187", 
+            "profile_background_color": "000000", 
+            "listed_count": 157, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "utc_offset": -25200, 
+            "statuses_count": 46034, 
+            "description": "\u2022\u2022 Falam 'tinha q ser kpopper' como se fosse ofensa. Meu amor bato no peito e digo com orgulho q sou kpopper \u265a felizmente army \u2765 pdbd \u2022 adm da @TourProjetosbts", 
+            "friends_count": 1077, 
+            "location": "Juazeiro do Norte, BrasilHope", 
+            "profile_link_color": "0B0B61", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/983515384937664512/-uxdGw7r_normal.jpg", 
+            "following": null, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3921791187/1522161961", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "yuyu ama tanto o bts q quer chorar de amor; b-aRMy", 
+            "lang": "pt", 
+            "profile_background_tile": false, 
+            "favourites_count": 44527, 
+            "screen_name": "yooh_hana", 
+            "notifications": null, 
+            "url": "https://curiouscat.me/Yooh_Hana", 
+            "created_at": "Sat Oct 10 21:32:08 +0000 2015", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "translator_type": "none", 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": "3921791187", 
+        "possibly_sensitive": false, 
+        "lang": "pt", 
+        "created_at": "Sun May 14 13:49:27 +0000 2017", 
+        "filter_level": "low", 
+        "in_reply_to_status_id_str": "858359234374795271", 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/Yooh_Hana/status/863753124003164160/photo/1", 
+                    "display_url": "pic.twitter.com/dqNAAS40cY", 
+                    "url": "https://t.co/dqNAAS40cY", 
+                    "media_url_https": "https://pbs.twimg.com/media/C_yq38FUMAIQ3Mj.jpg", 
+                    "id_str": "863753106546241538", 
+                    "sizes": {
+                        "large": {
+                            "h": 1086, 
+                            "resize": "fit", 
+                            "w": 481
+                        }, 
+                        "small": {
+                            "h": 680, 
+                            "resize": "fit", 
+                            "w": 301
+                        }, 
+                        "medium": {
+                            "h": 1086, 
+                            "resize": "fit", 
+                            "w": 481
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        82, 
+                        105
+                    ], 
+                    "type": "photo", 
+                    "id": 863753106546241538, 
+                    "media_url": "http://pbs.twimg.com/media/C_yq38FUMAIQ3Mj.jpg"
+                }
+            ]
+        }
+    }, 
+    "user": {
+        "follow_request_sent": null, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 1606711670, 
+        "default_profile": false, 
+        "verified": false, 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/988945290706276352/YwFu8Obs_normal.jpg", 
+        "profile_sidebar_fill_color": "F3F3F3", 
+        "profile_text_color": "333333", 
+        "followers_count": 6029, 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "id_str": "1606711670", 
+        "profile_background_color": "FFFFFF", 
+        "listed_count": 13, 
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/536951519241707520/JAbftIZZ.jpeg", 
+        "utc_offset": -10800, 
+        "statuses_count": 93445, 
+        "description": null, 
+        "friends_count": 6036, 
+        "location": "\ubc29\ud0c4\uc18c\ub144\ub2e8; gg stan", 
+        "profile_link_color": "ABB8C2", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/988945290706276352/YwFu8Obs_normal.jpg", 
+        "following": null, 
+        "geo_enabled": true, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1606711670/1524617145", 
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/536951519241707520/JAbftIZZ.jpeg", 
+        "name": "ellen", 
+        "lang": "pt", 
+        "profile_background_tile": false, 
+        "favourites_count": 6245, 
+        "screen_name": "touchoseok", 
+        "notifications": null, 
+        "url": null, 
+        "created_at": "Fri Jul 19 20:29:14 +0000 2013", 
+        "contributors_enabled": false, 
+        "time_zone": "Brasilia", 
+        "protected": false, 
+        "translator_type": "regular", 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "possibly_sensitive": false, 
+    "lang": "pt", 
+    "created_at": "Fri Apr 27 11:37:17 +0000 2018", 
+    "filter_level": "low", 
+    "in_reply_to_status_id_str": null, 
+    "place": null, 
+    "extended_entities": {
+        "media": [
+            {
+                "source_user_id": 3921791187, 
+                "source_status_id_str": "863753124003164160", 
+                "expanded_url": "https://twitter.com/Yooh_Hana/status/863753124003164160/photo/1", 
+                "display_url": "pic.twitter.com/dqNAAS40cY", 
+                "url": "https://t.co/dqNAAS40cY", 
+                "media_url_https": "https://pbs.twimg.com/media/C_yq38FUMAIQ3Mj.jpg", 
+                "source_user_id_str": "3921791187", 
+                "source_status_id": 863753124003164160, 
+                "id_str": "863753106546241538", 
+                "sizes": {
+                    "large": {
+                        "h": 1086, 
+                        "resize": "fit", 
+                        "w": 481
+                    }, 
+                    "small": {
+                        "h": 680, 
+                        "resize": "fit", 
+                        "w": 301
+                    }, 
+                    "medium": {
+                        "h": 1086, 
+                        "resize": "fit", 
+                        "w": 481
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "indices": [
+                    97, 
+                    120
+                ], 
+                "type": "photo", 
+                "id": 863753106546241538, 
+                "media_url": "http://pbs.twimg.com/media/C_yq38FUMAIQ3Mj.jpg"
+            }
+        ]
+    }
+},
+{
+    "quote_count": 0, 
+    "contributors": null, 
+    "truncated": false, 
+    "text": "RT @unicampoficial: F\u00edsicos desenvolvem espectr\u00f4metro de infravermelho que cabe em um chip\nDispositivo poder\u00e1 ser integrado a drones, smart\u2026", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "reply_count": 0, 
+    "id": 989832847644119040, 
+    "favorite_count": 0, 
+    "entities": {
+        "user_mentions": [
+            {
+                "id": 788430113859854336, 
+                "indices": [
+                    3, 
+                    18
+                ], 
+                "id_str": "788430113859854336", 
+                "screen_name": "unicampoficial", 
+                "name": "unicampoficial"
+            }
+        ], 
+        "symbols": [], 
+        "hashtags": [], 
+        "urls": []
+    }, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "timestamp_ms": "1524829515740", 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "in_reply_to_screen_name": null, 
+    "id_str": "989832847644119040", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "retweeted_status": {
+        "quote_count": 0, 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "F\u00edsicos desenvolvem espectr\u00f4metro de infravermelho que cabe em um chip\nDispositivo poder\u00e1 ser integrado a drones, s\u2026 https://t.co/NkgN1xHwwM", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "reply_count": 1, 
+        "id": 988779572819890177, 
+        "favorite_count": 23, 
+        "entities": {
+            "user_mentions": [], 
+            "symbols": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/NkgN1xHwwM", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/988779572819890177", 
+                    "display_url": "twitter.com/i/web/status/9\u2026"
+                }
+            ]
+        }, 
+        "retweeted": false, 
+        "coordinates": null, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "in_reply_to_screen_name": null, 
+        "id_str": "988779572819890177", 
+        "display_text_range": [
+            0, 
+            140
+        ], 
+        "retweet_count": 11, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 788430113859854336, 
+            "default_profile": true, 
+            "verified": false, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/788433645170196480/RYW3G21p_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "followers_count": 1812, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "788430113859854336", 
+            "profile_background_color": "F5F8FA", 
+            "listed_count": 22, 
+            "profile_background_image_url_https": "", 
+            "utc_offset": -25200, 
+            "statuses_count": 1210, 
+            "description": "A Unicamp \u00e9 uma autarquia, aut\u00f4noma em pol\u00edtica educacional, mas subordinada ao Governo Estadual no que se refere a subs\u00eddios para a sua opera\u00e7\u00e3o.", 
+            "friends_count": 7, 
+            "location": "Campinas, Brasil", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/788433645170196480/RYW3G21p_normal.jpg", 
+            "following": null, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/788430113859854336/1520951598", 
+            "profile_background_image_url": "", 
+            "name": "unicampoficial", 
+            "lang": "pt", 
+            "profile_background_tile": false, 
+            "favourites_count": 388, 
+            "screen_name": "unicampoficial", 
+            "notifications": null, 
+            "url": "http://www.unicamp.br/unicamp/", 
+            "created_at": "Tue Oct 18 17:22:42 +0000 2016", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "translator_type": "none", 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "pt", 
+        "extended_tweet": {
+            "display_text_range": [
+                0, 
+                279
+            ], 
+            "entities": {
+                "user_mentions": [], 
+                "symbols": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            240, 
+                            248
+                        ], 
+                        "text": "Unicamp"
+                    }, 
+                    {
+                        "indices": [
+                            249, 
+                            257
+                        ], 
+                        "text": "Ci\u00eancia"
+                    }, 
+                    {
+                        "indices": [
+                            258, 
+                            268
+                        ], 
+                        "text": "Sociedade"
+                    }, 
+                    {
+                        "indices": [
+                            270, 
+                            279
+                        ], 
+                        "text": "Inova\u00e7\u00e3o"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "https://t.co/s1DjM2U1dd", 
+                        "indices": [
+                            216, 
+                            239
+                        ], 
+                        "expanded_url": "http://www.unicamp.br/unicamp/ju/noticias/2018/04/24/fisicos-desenvolvem-espectrometro-de-infravermelho-que-cabe-em-um-chip", 
+                        "display_url": "unicamp.br/unicamp/ju/not\u2026"
+                    }
+                ], 
+                "media": [
+                    {
+                        "expanded_url": "https://twitter.com/unicampoficial/status/988779572819890177/photo/1", 
+                        "display_url": "pic.twitter.com/8VUkwnO85R", 
+                        "url": "https://t.co/8VUkwnO85R", 
+                        "media_url_https": "https://pbs.twimg.com/media/DbjZxJqXcAAkBrQ.jpg", 
+                        "id_str": "988779556638257152", 
+                        "sizes": {
+                            "small": {
+                                "h": 360, 
+                                "resize": "fit", 
+                                "w": 680
+                            }, 
+                            "large": {
+                                "h": 720, 
+                                "resize": "fit", 
+                                "w": 1360
+                            }, 
+                            "medium": {
+                                "h": 635, 
+                                "resize": "fit", 
+                                "w": 1200
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "indices": [
+                            280, 
+                            303
+                        ], 
+                        "type": "photo", 
+                        "id": 988779556638257152, 
+                        "media_url": "http://pbs.twimg.com/media/DbjZxJqXcAAkBrQ.jpg"
+                    }
+                ]
+            }, 
+            "extended_entities": {
+                "media": [
+                    {
+                        "expanded_url": "https://twitter.com/unicampoficial/status/988779572819890177/photo/1", 
+                        "display_url": "pic.twitter.com/8VUkwnO85R", 
+                        "url": "https://t.co/8VUkwnO85R", 
+                        "media_url_https": "https://pbs.twimg.com/media/DbjZxJqXcAAkBrQ.jpg", 
+                        "id_str": "988779556638257152", 
+                        "sizes": {
+                            "small": {
+                                "h": 360, 
+                                "resize": "fit", 
+                                "w": 680
+                            }, 
+                            "large": {
+                                "h": 720, 
+                                "resize": "fit", 
+                                "w": 1360
+                            }, 
+                            "medium": {
+                                "h": 635, 
+                                "resize": "fit", 
+                                "w": 1200
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "indices": [
+                            280, 
+                            303
+                        ], 
+                        "type": "photo", 
+                        "id": 988779556638257152, 
+                        "media_url": "http://pbs.twimg.com/media/DbjZxJqXcAAkBrQ.jpg"
+                    }
+                ]
+            }, 
+            "full_text": "F\u00edsicos desenvolvem espectr\u00f4metro de infravermelho que cabe em um chip\nDispositivo poder\u00e1 ser integrado a drones, smartphones e outros equipamentos para detectar compostos qu\u00edmicos e monitorar gases de efeito estufa\nhttps://t.co/s1DjM2U1dd\n#Unicamp #Ci\u00eancia #Sociedade  #Inova\u00e7\u00e3o https://t.co/8VUkwnO85R"
+        }, 
+        "created_at": "Tue Apr 24 13:59:55 +0000 2018", 
+        "filter_level": "low", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    "user": {
+        "follow_request_sent": null, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 89309417, 
+        "default_profile": false, 
+        "verified": false, 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978248985562570752/TAoAhVfU_normal.jpg", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "followers_count": 3875, 
+        "profile_sidebar_border_color": "C0DEED", 
+        "id_str": "89309417", 
+        "profile_background_color": "C0DEED", 
+        "listed_count": 58, 
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/287971548/fundo_twitter.jpg", 
+        "utc_offset": -10800, 
+        "statuses_count": 3825, 
+        "description": "Not\u00edcias sobre a Universidade Federal do Estado do Rio de Janeiro (UNIRIO), publicadas pela Coordenadoria de Comunica\u00e7\u00e3o Social", 
+        "friends_count": 207, 
+        "location": "Rio de Janeiro", 
+        "profile_link_color": "0084B4", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978248985562570752/TAoAhVfU_normal.jpg", 
+        "following": null, 
+        "geo_enabled": true, 
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/287971548/fundo_twitter.jpg", 
+        "name": "UNIRIO", 
+        "lang": "pt", 
+        "profile_background_tile": false, 
+        "favourites_count": 824, 
+        "screen_name": "comunicaUNIRIO", 
+        "notifications": null, 
+        "url": "http://www.unirio.br", 
+        "created_at": "Wed Nov 11 23:06:16 +0000 2009", 
+        "contributors_enabled": false, 
+        "time_zone": "Brasilia", 
+        "protected": false, 
+        "translator_type": "none", 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "pt", 
+    "created_at": "Fri Apr 27 11:45:15 +0000 2018", 
+    "filter_level": "low", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+},
+{
+    "quote_count": 0, 
+    "contributors": null, 
+    "truncated": false, 
+    "text": "@0Leduino Friolento \u00e9 a chegada do inverno em tempos de aquecimento global ou o lema dos Stark.", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": 989828258249281536, 
+    "reply_count": 0, 
+    "id": 989832937830060032, 
+    "favorite_count": 0, 
+    "entities": {
+        "user_mentions": [
+            {
+                "id": 25128717, 
+                "indices": [
+                    0, 
+                    9
+                ], 
+                "id_str": "25128717", 
+                "screen_name": "0Leduino", 
+                "name": "Mohamed Salah de Cachoeirinha"
+            }
+        ], 
+        "symbols": [], 
+        "hashtags": [], 
+        "urls": []
+    }, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "timestamp_ms": "1524829537242", 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "in_reply_to_screen_name": "0Leduino", 
+    "id_str": "989832937830060032", 
+    "display_text_range": [
+        10, 
+        95
+    ], 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": 25128717, 
+    "favorited": false, 
+    "user": {
+        "follow_request_sent": null, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 47813347, 
+        "default_profile": false, 
+        "verified": false, 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/937361615434997760/KmrDCljg_normal.jpg", 
+        "profile_sidebar_fill_color": "28162C", 
+        "profile_text_color": "A6A3A3", 
+        "followers_count": 351, 
+        "profile_sidebar_border_color": "28162C", 
+        "id_str": "47813347", 
+        "profile_background_color": "111111", 
+        "listed_count": 8, 
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/348312050/1485.jpg", 
+        "utc_offset": -10800, 
+        "statuses_count": 31442, 
+        "description": "Tricampe\u00e3 da Am\u00e9rica", 
+        "friends_count": 556, 
+        "location": "Porto Alegre", 
+        "profile_link_color": "6880A3", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/937361615434997760/KmrDCljg_normal.jpg", 
+        "following": null, 
+        "geo_enabled": true, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47813347/1515112784", 
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/348312050/1485.jpg", 
+        "name": "Donzela Em Defesa", 
+        "lang": "pt", 
+        "profile_background_tile": false, 
+        "favourites_count": 5849, 
+        "screen_name": "andrezastefani", 
+        "notifications": null, 
+        "url": null, 
+        "created_at": "Wed Jun 17 01:54:23 +0000 2009", 
+        "contributors_enabled": false, 
+        "time_zone": "America/Sao_Paulo", 
+        "protected": false, 
+        "translator_type": "none", 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": "25128717", 
+    "lang": "pt", 
+    "created_at": "Fri Apr 27 11:45:37 +0000 2018", 
+    "filter_level": "low", 
+    "in_reply_to_status_id_str": "989828258249281536", 
+    "place": {
+        "full_name": "Porto Alegre, Brasil", 
+        "url": "https://api.twitter.com/1.1/geo/id/894146230dd1d42d.json", 
+        "country": "Brasil", 
+        "place_type": "city", 
+        "bounding_box": {
+            "type": "Polygon", 
+            "coordinates": [
+                [
+                    [
+                        -51.306148, 
+                        -30.268807
+                    ], 
+                    [
+                        -51.306148, 
+                        -29.930865
+                    ], 
+                    [
+                        -51.012471, 
+                        -29.930865
+                    ], 
+                    [
+                        -51.012471, 
+                        -30.268807
+                    ]
+                ]
+            ]
+        }, 
+        "country_code": "BR", 
+        "attributes": {}, 
+        "id": "894146230dd1d42d", 
+        "name": "Porto Alegre"
+    }
+},
+{
+    "quote_count": 0, 
+    "contributors": null, 
+    "truncated": false, 
+    "text": "RT @unicampoficial: F\u00edsicos desenvolvem espectr\u00f4metro de infravermelho que cabe em um chip\nDispositivo poder\u00e1 ser integrado a drones, smart\u2026", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "reply_count": 0, 
+    "id": 989843175564042241, 
+    "favorite_count": 0, 
+    "entities": {
+        "user_mentions": [
+            {
+                "id": 788430113859854336, 
+                "indices": [
+                    3, 
+                    18
+                ], 
+                "id_str": "788430113859854336", 
+                "screen_name": "unicampoficial", 
+                "name": "unicampoficial"
+            }
+        ], 
+        "symbols": [], 
+        "hashtags": [], 
+        "urls": []
+    }, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "timestamp_ms": "1524831978108", 
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+    "in_reply_to_screen_name": null, 
+    "id_str": "989843175564042241", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "retweeted_status": {
+        "quote_count": 0, 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "F\u00edsicos desenvolvem espectr\u00f4metro de infravermelho que cabe em um chip\nDispositivo poder\u00e1 ser integrado a drones, s\u2026 https://t.co/NkgN1xHwwM", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "reply_count": 1, 
+        "id": 988779572819890177, 
+        "favorite_count": 23, 
+        "entities": {
+            "user_mentions": [], 
+            "symbols": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/NkgN1xHwwM", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/988779572819890177", 
+                    "display_url": "twitter.com/i/web/status/9\u2026"
+                }
+            ]
+        }, 
+        "retweeted": false, 
+        "coordinates": null, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "in_reply_to_screen_name": null, 
+        "id_str": "988779572819890177", 
+        "display_text_range": [
+            0, 
+            140
+        ], 
+        "retweet_count": 12, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 788430113859854336, 
+            "default_profile": true, 
+            "verified": false, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/788433645170196480/RYW3G21p_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "followers_count": 1813, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "788430113859854336", 
+            "profile_background_color": "F5F8FA", 
+            "listed_count": 22, 
+            "profile_background_image_url_https": "", 
+            "utc_offset": -25200, 
+            "statuses_count": 1211, 
+            "description": "A Unicamp \u00e9 uma autarquia, aut\u00f4noma em pol\u00edtica educacional, mas subordinada ao Governo Estadual no que se refere a subs\u00eddios para a sua opera\u00e7\u00e3o.", 
+            "friends_count": 7, 
+            "location": "Campinas, Brasil", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/788433645170196480/RYW3G21p_normal.jpg", 
+            "following": null, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/788430113859854336/1520951598", 
+            "profile_background_image_url": "", 
+            "name": "unicampoficial", 
+            "lang": "pt", 
+            "profile_background_tile": false, 
+            "favourites_count": 390, 
+            "screen_name": "unicampoficial", 
+            "notifications": null, 
+            "url": "http://www.unicamp.br/unicamp/", 
+            "created_at": "Tue Oct 18 17:22:42 +0000 2016", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "translator_type": "none", 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "pt", 
+        "extended_tweet": {
+            "display_text_range": [
+                0, 
+                279
+            ], 
+            "entities": {
+                "user_mentions": [], 
+                "symbols": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            240, 
+                            248
+                        ], 
+                        "text": "Unicamp"
+                    }, 
+                    {
+                        "indices": [
+                            249, 
+                            257
+                        ], 
+                        "text": "Ci\u00eancia"
+                    }, 
+                    {
+                        "indices": [
+                            258, 
+                            268
+                        ], 
+                        "text": "Sociedade"
+                    }, 
+                    {
+                        "indices": [
+                            270, 
+                            279
+                        ], 
+                        "text": "Inova\u00e7\u00e3o"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "https://t.co/s1DjM2U1dd", 
+                        "indices": [
+                            216, 
+                            239
+                        ], 
+                        "expanded_url": "http://www.unicamp.br/unicamp/ju/noticias/2018/04/24/fisicos-desenvolvem-espectrometro-de-infravermelho-que-cabe-em-um-chip", 
+                        "display_url": "unicamp.br/unicamp/ju/not\u2026"
+                    }
+                ], 
+                "media": [
+                    {
+                        "expanded_url": "https://twitter.com/unicampoficial/status/988779572819890177/photo/1", 
+                        "display_url": "pic.twitter.com/8VUkwnO85R", 
+                        "url": "https://t.co/8VUkwnO85R", 
+                        "media_url_https": "https://pbs.twimg.com/media/DbjZxJqXcAAkBrQ.jpg", 
+                        "id_str": "988779556638257152", 
+                        "sizes": {
+                            "small": {
+                                "h": 360, 
+                                "resize": "fit", 
+                                "w": 680
+                            }, 
+                            "large": {
+                                "h": 720, 
+                                "resize": "fit", 
+                                "w": 1360
+                            }, 
+                            "medium": {
+                                "h": 635, 
+                                "resize": "fit", 
+                                "w": 1200
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "indices": [
+                            280, 
+                            303
+                        ], 
+                        "type": "photo", 
+                        "id": 988779556638257152, 
+                        "media_url": "http://pbs.twimg.com/media/DbjZxJqXcAAkBrQ.jpg"
+                    }
+                ]
+            }, 
+            "extended_entities": {
+                "media": [
+                    {
+                        "expanded_url": "https://twitter.com/unicampoficial/status/988779572819890177/photo/1", 
+                        "display_url": "pic.twitter.com/8VUkwnO85R", 
+                        "url": "https://t.co/8VUkwnO85R", 
+                        "media_url_https": "https://pbs.twimg.com/media/DbjZxJqXcAAkBrQ.jpg", 
+                        "id_str": "988779556638257152", 
+                        "sizes": {
+                            "small": {
+                                "h": 360, 
+                                "resize": "fit", 
+                                "w": 680
+                            }, 
+                            "large": {
+                                "h": 720, 
+                                "resize": "fit", 
+                                "w": 1360
+                            }, 
+                            "medium": {
+                                "h": 635, 
+                                "resize": "fit", 
+                                "w": 1200
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "indices": [
+                            280, 
+                            303
+                        ], 
+                        "type": "photo", 
+                        "id": 988779556638257152, 
+                        "media_url": "http://pbs.twimg.com/media/DbjZxJqXcAAkBrQ.jpg"
+                    }
+                ]
+            }, 
+            "full_text": "F\u00edsicos desenvolvem espectr\u00f4metro de infravermelho que cabe em um chip\nDispositivo poder\u00e1 ser integrado a drones, smartphones e outros equipamentos para detectar compostos qu\u00edmicos e monitorar gases de efeito estufa\nhttps://t.co/s1DjM2U1dd\n#Unicamp #Ci\u00eancia #Sociedade  #Inova\u00e7\u00e3o https://t.co/8VUkwnO85R"
+        }, 
+        "created_at": "Tue Apr 24 13:59:55 +0000 2018", 
+        "filter_level": "low", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    "user": {
+        "follow_request_sent": null, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 1663891230, 
+        "default_profile": true, 
+        "verified": false, 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/575500090661601280/MJGHT1ZG_normal.jpeg", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "followers_count": 19, 
+        "profile_sidebar_border_color": "C0DEED", 
+        "id_str": "1663891230", 
+        "profile_background_color": "C0DEED", 
+        "listed_count": 0, 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "utc_offset": -10800, 
+        "statuses_count": 1016, 
+        "description": null, 
+        "friends_count": 42, 
+        "location": null, 
+        "profile_link_color": "1DA1F2", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575500090661601280/MJGHT1ZG_normal.jpeg", 
+        "following": null, 
+        "geo_enabled": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663891230/1426044868", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "name": "Andre Timotheo", 
+        "lang": "pt", 
+        "profile_background_tile": false, 
+        "favourites_count": 1382, 
+        "screen_name": "AndreTimotheo", 
+        "notifications": null, 
+        "url": null, 
+        "created_at": "Mon Aug 12 02:11:16 +0000 2013", 
+        "contributors_enabled": false, 
+        "time_zone": "Brasilia", 
+        "protected": false, 
+        "translator_type": "none", 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "pt", 
+    "created_at": "Fri Apr 27 12:26:18 +0000 2018", 
+    "filter_level": "low", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+},
+{
+    "quote_count": 0, 
+    "contributors": null, 
+    "truncated": false, 
+    "text": "(Post antigo. Confira) Para combater o aquecimento global, Chile abole palet\u00f3 e gravata https://t.co/tg3vGbA4Cr #OLD", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "reply_count": 0, 
+    "id": 989843655958679552, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://www.ajaymatharu.com/\" rel=\"nofollow\">Tweet Old Post</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "timestamp_ms": "1524832092643", 
+    "entities": {
+        "user_mentions": [], 
+        "symbols": [], 
+        "hashtags": [
+            {
+                "indices": [
+                    112, 
+                    116
+                ], 
+                "text": "OLD"
+            }
+        ], 
+        "urls": [
+            {
+                "url": "https://t.co/tg3vGbA4Cr", 
+                "indices": [
+                    88, 
+                    111
+                ], 
+                "expanded_url": "https://ceticismo.net/2007/01/22/para-combater-o-aquecimento-global-chile-abole-a-paleto-e-gravata/", 
+                "display_url": "ceticismo.net/2007/01/22/par\u2026"
+            }
+        ]
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "989843655958679552", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+        "follow_request_sent": null, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 28925084, 
+        "default_profile": false, 
+        "verified": false, 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/825365225457192960/tjhtlcnr_normal.jpg", 
+        "profile_sidebar_fill_color": "DDFFCC", 
+        "profile_text_color": "333333", 
+        "followers_count": 8710, 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "id_str": "28925084", 
+        "profile_background_color": "9AE4E8", 
+        "listed_count": 143, 
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/447394562730782721/wiBU6QRJ.jpeg", 
+        "utc_offset": -10800, 
+        "statuses_count": 308633, 
+        "description": "\u03ba\u03b1\u03b9 \u03b3\u03bd\u03c9\u03c3\u03b5\u03c3\u03b8\u03b5 \u03c4\u03b7\u03bd \u03b1\u03bb\u03b7\u03b8\u03b5\u03b9\u03b1\u03bd \u03ba\u03b1\u03b9 \u03b7 \u03b1\u03bb\u03b7\u03b8\u03b5\u03b9\u03b1 \u03b5\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03c9\u03c3\u03b5\u03b9 \u03c5\u03bc\u03b1\u03c2  Ceticismo, Ci\u00eancia e Tecnologia.", 
+        "friends_count": 162, 
+        "location": "Brasil", 
+        "profile_link_color": "0084B4", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/825365225457192960/tjhtlcnr_normal.jpg", 
+        "following": null, 
+        "geo_enabled": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28925084/1395502442", 
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/447394562730782721/wiBU6QRJ.jpeg", 
+        "name": "Ceticismo.net", 
+        "lang": "pt", 
+        "profile_background_tile": false, 
+        "favourites_count": 260, 
+        "screen_name": "ceticismo", 
+        "notifications": null, 
+        "url": "http://ceticismo.net", 
+        "created_at": "Sun Apr 05 02:43:47 +0000 2009", 
+        "contributors_enabled": false, 
+        "time_zone": "Brasilia", 
+        "protected": false, 
+        "translator_type": "none", 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "possibly_sensitive": false, 
+    "lang": "pt", 
+    "created_at": "Fri Apr 27 12:28:12 +0000 2018", 
+    "filter_level": "low", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+}
+]
+}
