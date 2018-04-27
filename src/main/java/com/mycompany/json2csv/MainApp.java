@@ -11,6 +11,9 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+import org.apache.commons.lang.StringEscapeUtils;
 import org.apache.commons.lang.StringUtils;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -92,44 +95,56 @@ public class MainApp {
                 textQuoted = textQuote(tweet);
             }
 
-//            textOriginal = textOriginal.replace("\n", " ");
-//            textRT = textRT.replace("\n", " ");
-//            textQuoted = textQuoted.replace("\n", " ");
-//            textRTwithQuote = textRTwithQuote.replace("\n", " ");
+//            //Seção que remove URLs:
+//            textOriginal = removeUrl(textOriginal);
+//            textRT = removeUrl(textRT);
+//            textQuoted = removeUrl(textQuoted);
+//            textRTwithQuote = removeUrl(textRTwithQuote);
+
+            //Seção que remove Quebras de linhas e caracteres especiais do sistema:
+            textOriginal = textOriginal.replaceAll("\\r\\n|\\r|\\n", " ");
+            textRT = textRT.replaceAll("\\r\\n|\\r|\\n", " ");
+            textQuoted = textQuoted.replaceAll("\\r\\n|\\r|\\n", " ");
+            textRTwithQuote = textRTwithQuote.replaceAll("\\r\\n|\\r|\\n", " ");
+//
+//            //Seção que remove HASHTAGS (#hashtag):
+//            textOriginal = textOriginal.replaceAll("#[^\\s]+", "");
+//            textRT = textRT.replaceAll("#[^\\s]+", "");
+//            textQuoted = textQuoted.replaceAll("#[^\\s]+", "");
+//            textRTwithQuote = textRTwithQuote.replaceAll("#[^\\s]+", "");
+
+            //Seção que normaliza o texto, removendo espaços desnecessários
             textOriginal = StringUtils.normalizeSpace(textOriginal);
             textRT = StringUtils.normalizeSpace(textRT);
             textQuoted = StringUtils.normalizeSpace(textQuoted);
             textRTwithQuote = StringUtils.normalizeSpace(textRTwithQuote);
 
-//            System.out.println("==================================================");
-//            System.out.println("ID: " + idTweet);
-//            System.out.println("LANG: " + lang);
-//            System.out.println("CREATED: " + createdAt);
-//            System.out.println("TIMEZONE: " + timezone);
-//            System.out.println("USER:" + username);
-//            System.out.println("TEXTO TWEET: " + textOriginal);
-//            System.out.println("TEXTO RETWEET: " + textRT);
-//            System.out.println("TEXTO QUOTE: " + textQuoted);
-//            System.out.println("TEXTO QUOTE DO RETWEET: " + textRTwithQuote);
-//            System.out.println("==================================================");
-            System.out.println(idTweet + ";" + lang + ";" + timezone + ";" + username + ";" + textOriginal + ";" + textRT + ";" + textQuoted + ";" + textRTwithQuote + "\n");
-            //System.out.println(idTweet + lang + timezone + username + textOriginal + textRT + textQuoted + textRTwithQuote + "\n");
-            bufferedWriter.write(idTweet + ";" + lang + ";" + timezone + ";" + username + ";" + textOriginal + ";" + textRT + ";" + textQuoted + ";" + textRTwithQuote + "\n");
-//
-//            bufferedWriter.write("===============================================");
-//            bufferedWriter.write(idTweet);
-//            bufferedWriter.write(lang);
-//            bufferedWriter.write(createdAt);
-//            bufferedWriter.write(timezone);
-//            bufferedWriter.write(username);
-//            bufferedWriter.write(textOriginal);
-//            bufferedWriter.write(textRT);
-//            bufferedWriter.write(textQuoted);
-//            bufferedWriter.write(textRTwithQuote);
-//            bufferedWriter.write("===============================================");
-//            bufferedWriter.write("\n");
+            System.out.println("==================================================");
+            System.out.println("ID: " + idTweet);
+            System.out.println("LANG: " + lang);
+            System.out.println("CREATED: " + createdAt);
+            System.out.println("TIMEZONE: " + timezone);
+            System.out.println("USER:" + username);
+            System.out.println("TEXTO TWEET: " + textOriginal);
+            System.out.println("TEXTO RETWEET: " + textRT);
+            System.out.println("TEXTO QUOTE: " + textQuoted);
+            System.out.println("TEXTO QUOTE DO RETWEET: " + textRTwithQuote);
+            System.out.println("==================================================");
+
+            bufferedWriter.write(idTweet + ";" + lang + ";" + timezone + ";" + username + ";\"" + textOriginal + "\";\"" + textRT + "\";\"" + textQuoted + "\";\"" + textRTwithQuote + "\"\n");
         }
         bufferedWriter.close();
+    }
+
+    private static String removeUrl(String commentstr) {
+        String urlPattern = "((https?|ftp|gopher|telnet|file|Unsure|http):((//)|(\\\\))+[\\w\\d:#@%/;$()~_?\\+-=\\\\\\.&]*)";
+        Pattern p = Pattern.compile(urlPattern, Pattern.CASE_INSENSITIVE);
+        Matcher m = p.matcher(commentstr);
+        StringBuffer sb = new StringBuffer(commentstr.length());
+        while (m.find()) {
+            m.appendReplacement(sb, "");
+        }
+        return sb.toString();
     }
 
     private static String textQuote(JSONObject obj) {
